@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0EUvWKarnbhMZZhn9NpfxgcfQ3HwK7PvF9ytFWlpgaubWHoaNUK5rMt+qv9l3PiT6EnG4uKdeDwLBLk5OFAWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marko\\Desktop\\konzola\\konzola\\konzola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marko\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\scottplot\\4.1.66\\scottplot.4.1.66.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\Marko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
